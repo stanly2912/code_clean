@@ -1,0 +1,1491 @@
+nohup: ignoring input
+正在等待模型 25 加载进显存 (60秒)...
+找到 158 个唯一 probid
+Generating:   0%|          | 0/158 [00:00<?, ?it/s][generate_codes] pseudocode declare string variable s
+create constant long double eps with eps = 1e-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let eps be constant long double = 1e-7
+
+let s be string
+create new string variable path
+creat constant integer inf with inf = 1000000010
+declare string variable str
+let p be a string
+create string str
+set constant integer inf to 1000000010
+create constant integer size with value 101
+create constant integer size with size = 101
+create constant integer size with size = 101
+let s be string
+create constant integer size with value 101
+create string s
+create string s
+s = string
+create string s
+declare string variable s
+declare short int sz
+let a be array of chars of length 110
+increment t by s[i]
+if flag is false
+set flag to false
+if flag is false
+
+set flag to false
+if not flag
+set i to 0
+set value of i to 0
+else
+set flag to 0
+set flag to 0
+
+if not flag
+
+
+change the value of flag to 0
+increase t by s[i]
+print a[i] in the loop from 0 while a[i] is not equal to "\0"
+if chk is true
+for j = i + 1 to n exclusive
+for i = 0 to sz inclusive
+if s[l-1] is not '/' or n is 0, print s[l-1]
+set flag to true
+for j = i to n exclusive
+
+
+
+set value of flag to true
+if ans.size() is greater than 1 and ans[ans.size() - 1] is equal to / , ans is equal to ans.substr(0, ans.size() - 1)
+assign value of true to the flag
+
+
+set flag to true
+
+
+if s[i-1] is not equal to / or n = 0
+print end of line
+if s[j] is not /, break loop
+print newline
+if flag = false and s[i] = '/'
+end of the line
+else
+else
+
+if s[j] != '/', break the loop
+print ans and newline
+if flag is 0 or flag is 1, increment ns by s[i]
+push str[i] into ans
+else
+if last element of t is equal to '/', set t to t.substr(0, t.size() - 1)
+
+append string "/" + temps to ans
+add element str[i] to end of ans
+else
+if t[size of t - 1] is '/', set t to substring of t starting at 0 to size of t - 1
+if flag and 0 or flag is equal to 1 increase ns by s[i]
+set flag to true
+
+
+
+
+
+if flag is true and length of output > 1, change output to the substring of the output = output itself
+
+set value of temps to an empty string
+
+
+
+increment s
+
+if t is "", set t to "/"
+increase s by one
+increment s
+if t is an empty string set t to "/"
+increment s
+break current loop iteration
+if size of ns is 1
+print output
+for i = 0 to size of ans exclusive
+set chk to false
+if length of ns is equal to 1
+skip the rest of the loop
+print s[i]
+
+
+for i = 0 to length of ans exclusive
+break current loop iteration
+
+
+print t and a new line
+print t print newline
+skip the rest of the loop
+
+
+print ns and a new line
+
+
+print ns print newline
+if size of ans is greater than 1 and i is size of ans - 1 and ans[i] is '/', break current loop iteration
+set i to j
+set value of i to j
+if length of ans > 1 and i = length of ans - and ans[i] = '/', continue the loop
+
+
+
+
+else if s[i] != '/'
+else
+else
+else
+loop while i < n incrementing i
+for i to n exclusive
+else if last element of ns is '/'
+set flag to false
+else
+else if ns[size of ns - 1] is '/'
+
+set lol to true
+print ans[i]
+
+print ans[i]
+
+print substring of ns from 0 to size of ns - 1, print newline
+set flag to false
+if s[i] is equal to '/'
+print s[i]
+
+print ns without last symbol and a new line
+
+set flag to false
+set s[i] to /
+set flag to false
+set flag to false
+
+print newline
+else
+
+
+
+if temp is not str, add element str to end of vv
+else
+
+print new line
+
+
+if temp != str, push str into vv
+set value of p to value of s
+*p = *s
+if temps is not empty attach "/" and temps to ans
+print ns print newline
+set value of p to value of s
+
+print ns and a new line
+*p = *s
+
+set str to ""
+
+str = ""
+len, i, j = integers
+read s
+create constant integer mod with mod = 1000000007
+create character array str of size size
+read s
+create character array str with size size
+read str
+create char array str with size size
+read str
+read s
+str = array of characters of length size
+while read s is true
+read s
+set constant integer mod to 1000000007
+read s
+read p
+while can read input into s
+declare boolean called flag = false
+read line from the input into path
+
+for j = i + 1 to n exclusive
+if and is empty and lol is true append character "/" to ans
+
+increment p
+increment p
+increase p
+print '\n'
+increment p
+
+for j = i to n exclusive
+
+increment s
+increase s
+if s[j] is not /, break loop
+
+increment s
+
+print ans and a new line
+increment s
+
+if s[j] is not '/', break
+
+
+
+
+
+
+
+
+
+
+set value of p to '\0'
+set value of p to \0
+*p = '\0'
+set i to j - 1
+i = j - 1
+*p = '\0'
+create size_t len with len = string length of str
+len is size_t with value equal to length of str
+create size_t len with len = string length of str
+len is size_t with value = length of str
+if i != n - 1, push "/" into vv
+if i is not n - 1, add element / to end of vv
+if len > 1 and str[len - 1] is equal to '/', set str at len - 1 to '\0'
+if len is greater than 1 and str[len-1] is /, set str[len-1] to \0
+if len is greater than 1 and str[len-1] is '/', set str[len-1] to '\0'
+if len > 1 && str[len - 1] is '/', set last symbol of str to '\0'
+else
+else
+copy string to str from start
+print start
+increase str by s[i]
+increment str by s[i]
+print start
+copy start to str
+
+print str
+
+print str and a new line
+
+
+
+
+
+
+
+
+if str != temp, push str into vv
+
+if str is not temp, add element str to end of vv
+
+the string value of ans is equal to space
+let vv be a vector of strings
+read a
+read line from the input into size
+create integer l with l = size of s
+integer sz = size of s
+
+create integer sz with sz = size of s
+read line into str with maximum size size
+read line from str to size
+create integer t with value 2
+declare new string output
+create constant integer MAXN with MAXN = 100010
+read line of length size to str
+ans is vector of characters
+set constant integer MAXN to 100010
+create character vector ans
+create string vector vv
+Let l be the size of string s
+print all elements of vv one by one
+for i = 0 to size of vv, print vv[i]
+print '\n'
+print \n
+
+
+set boolean flag to false
+assign value false to the boolean flag
+declare strings called s and t
+create boolean flag with flag = false
+bool flag is false
+let n = 0
+create string ns with ns = ""
+declare empty strings ans and temps
+create strings s, t
+create boolean flag with flag = false
+for i = 0 to length of p exclusive
+create boolean flag with flag = false
+create integers i, j
+create integer n with n = 0
+read s
+ns = empty string
+create integers i and j
+len = length of a
+declare new boolean called flag
+if p[i] equals /
+start a loop from k = 0 to length of path exclusive, incrementing k
+create character pointer start with start = str
+*start is a char pointer to str
+
+for integer i = length of s - 1 to 0 inclusive counting down
+
+for i = 1 to l exclusive
+for i = 0 to len exclusive
+for long long i from 0 to length of str exclusive
+create integer flag with flag = 0
+for i = 0 to n exclusive
+n = length of s
+char pointer start = str
+for i = 0 to size of str exclusive
+set value of booleans chk and lol to false
+create integer n with n = size of s
+create character pointer start with start = str
+create integer flag with value 0
+if str[i] is '/'
+for i = 0 to sz exclusive
+create strings str, temp with str = "",
+while i is less than length of p and p[i] equals / , increment i by 1
+read line from cin to s
+for integer i = 0 to size of s exclusive
+if s[i] is not equal to s[i-1] and s[i] is equal to /
+str is an empty string, temp is string
+create character pointer s with s = start
+create character pointer s with s = start
+if s[i] != '/'
+if str[i] is '/'
+for i = 0 to sz exclusive
+char pointer s = start
+read input into s
+if path[k] != '/' or flag = 0, change output to output + path[k]
+*s is a char pointer to start
+if a[j] != '/' or a[i] != '/' increment j and set a[j] to a[i]
+if (s[i] is s[i-1] and s[i] is '/') is false
+create character pointer p with p = start
+sz = i
+increment n
+set temp to str
+increment n
+*p is a char pointer to start
+if flag is true, continue
+if isalpha(s[i])
+set temp to str
+
+set t to s[0]
+create character pointer p with p = start
+if path[k] is equal to '/'
+ans = ans + /
+if flag is true, break current loop iteration
+char pointer p = start
+if s[i] is equal to '/'
+set value of t to s[0]
+if s[i] is '/'
+print s[i-1]
+print s[i-1]
+set the value of flag to 1
+
+for integer i = 1 to length of s exclusive
+increase flag
+break the loop
+while value of s is not '\0'
+while value at s != '\0'
+set flag to true
+for i = 1 to size of s
+while *s != '\0'
+increment flag
+set flag to true
+decrement j while j > 0 and a[j] == '/'
+increase temps by s[i]
+while value of s is not \0
+if s[0] is equal to '/'
+if s[0] is /
+add element / to end of vv
+set chk to true
+if value at s is equal to '/'
+
+else
+else
+if *s is equal to '/'
+if s[i] is '/' and s[i-1] is '/', break current loop iteration
+
+
+if value of is is '/'
+if value of s is not /
+else
+if s[i] == '/' and s[i - 1] is equal to '/' continue the loop
+else
+set a[j + 1] to "\0"
+if i is less than length of p , increment ans by p[i]
+push "/" into vv
+elseGenerating:   0%|          | 0/158 [01:14<?, ?it/s]
+
+[infer_once]
+Traceback (most recent call last):
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 151, in <module>
+    main()
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 124, in main
+    candidates = generate_codes(pseudocode, k=args.k)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 70, in generate_codes
+    return LLM_generate(pseudocode,k)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 63, in LLM_generate
+    base_code=infer_once(pseudocode)
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 57, in infer_once
+    result = client.chat.completions.create(messages=messages, model="deepseek")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1211, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1297, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1070, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.InternalServerError: Internal Server Error
+评测完毕，清理后台大模型释放资源...
+/home/wangbn/code_clean/inferSPOC.sh: line 4: 3219126 Killed                  API_PORT=8088 CUDA_VISIBLE_DEVICES=1 nohup llamafactory-cli api /home/wangbn/code_clean/infer${model}.yaml > api8088.log 2>&1  (wd: ~/LLaMA-Factory)
+正在等待模型 50 加载进显存 (60秒)...
+找到 158 个唯一 probid
+Generating:   0%|          | 0/158 [00:00<?, ?it/s][generate_codes] pseudocode declare string variable s
+create constant long double eps with eps = 1e-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let eps be constant long double = 1e-7
+
+let s be string
+create new string variable path
+creat constant integer inf with inf = 1000000010
+declare string variable str
+let p be a string
+create string str
+set constant integer inf to 1000000010
+create constant integer size with value 101
+create constant integer size with size = 101
+create constant integer size with size = 101
+let s be string
+create constant integer size with value 101
+create string s
+create string s
+s = string
+create string s
+declare string variable s
+declare short int sz
+let a be array of chars of length 110
+increment t by s[i]
+if flag is false
+set flag to false
+if flag is false
+
+set flag to false
+if not flag
+set i to 0
+set value of i to 0
+else
+set flag to 0
+set flag to 0
+
+if not flag
+
+
+change the value of flag to 0
+increase t by s[i]
+print a[i] in the loop from 0 while a[i] is not equal to "\0"
+if chk is true
+for j = i + 1 to n exclusive
+for i = 0 to sz inclusive
+if s[l-1] is not '/' or n is 0, print s[l-1]
+set flag to true
+for j = i to n exclusive
+
+
+
+set value of flag to true
+if ans.size() is greater than 1 and ans[ans.size() - 1] is equal to / , ans is equal to ans.substr(0, ans.size() - 1)
+assign value of true to the flag
+
+
+set flag to true
+
+
+if s[i-1] is not equal to / or n = 0
+print end of line
+if s[j] is not /, break loop
+print newline
+if flag = false and s[i] = '/'
+end of the line
+else
+else
+
+if s[j] != '/', break the loop
+print ans and newline
+if flag is 0 or flag is 1, increment ns by s[i]
+push str[i] into ans
+else
+if last element of t is equal to '/', set t to t.substr(0, t.size() - 1)
+
+append string "/" + temps to ans
+add element str[i] to end of ans
+else
+if t[size of t - 1] is '/', set t to substring of t starting at 0 to size of t - 1
+if flag and 0 or flag is equal to 1 increase ns by s[i]
+set flag to true
+
+
+
+
+
+if flag is true and length of output > 1, change output to the substring of the output = output itself
+
+set value of temps to an empty string
+
+
+
+increment s
+
+if t is "", set t to "/"
+increase s by one
+increment s
+if t is an empty string set t to "/"
+increment s
+break current loop iteration
+if size of ns is 1
+print output
+for i = 0 to size of ans exclusive
+set chk to false
+if length of ns is equal to 1
+skip the rest of the loop
+print s[i]
+
+
+for i = 0 to length of ans exclusive
+break current loop iteration
+
+
+print t and a new line
+print t print newline
+skip the rest of the loop
+
+
+print ns and a new line
+
+
+print ns print newline
+if size of ans is greater than 1 and i is size of ans - 1 and ans[i] is '/', break current loop iteration
+set i to j
+set value of i to j
+if length of ans > 1 and i = length of ans - and ans[i] = '/', continue the loop
+
+
+
+
+else if s[i] != '/'
+else
+else
+else
+loop while i < n incrementing i
+for i to n exclusive
+else if last element of ns is '/'
+set flag to false
+else
+else if ns[size of ns - 1] is '/'
+
+set lol to true
+print ans[i]
+
+print ans[i]
+
+print substring of ns from 0 to size of ns - 1, print newline
+set flag to false
+if s[i] is equal to '/'
+print s[i]
+
+print ns without last symbol and a new line
+
+set flag to false
+set s[i] to /
+set flag to false
+set flag to false
+
+print newline
+else
+
+
+
+if temp is not str, add element str to end of vv
+else
+
+print new line
+
+
+if temp != str, push str into vv
+set value of p to value of s
+*p = *s
+if temps is not empty attach "/" and temps to ans
+print ns print newline
+set value of p to value of s
+
+print ns and a new line
+*p = *s
+
+set str to ""
+
+str = ""
+len, i, j = integers
+read s
+create constant integer mod with mod = 1000000007
+create character array str of size size
+read s
+create character array str with size size
+read str
+create char array str with size size
+read str
+read s
+str = array of characters of length size
+while read s is true
+read s
+set constant integer mod to 1000000007
+read s
+read p
+while can read input into s
+declare boolean called flag = false
+read line from the input into path
+
+for j = i + 1 to n exclusive
+if and is empty and lol is true append character "/" to ans
+
+increment p
+increment p
+increase p
+print '\n'
+increment p
+
+for j = i to n exclusive
+
+increment s
+increase s
+if s[j] is not /, break loop
+
+increment s
+
+print ans and a new line
+increment s
+
+if s[j] is not '/', break
+
+
+
+
+
+
+
+
+
+
+set value of p to '\0'
+set value of p to \0
+*p = '\0'
+set i to j - 1
+i = j - 1
+*p = '\0'
+create size_t len with len = string length of str
+len is size_t with value equal to length of str
+create size_t len with len = string length of str
+len is size_t with value = length of str
+if i != n - 1, push "/" into vv
+if i is not n - 1, add element / to end of vv
+if len > 1 and str[len - 1] is equal to '/', set str at len - 1 to '\0'
+if len is greater than 1 and str[len-1] is /, set str[len-1] to \0
+if len is greater than 1 and str[len-1] is '/', set str[len-1] to '\0'
+if len > 1 && str[len - 1] is '/', set last symbol of str to '\0'
+else
+else
+copy string to str from start
+print start
+increase str by s[i]
+increment str by s[i]
+print start
+copy start to str
+
+print str
+
+print str and a new line
+
+
+
+
+
+
+
+
+if str != temp, push str into vv
+
+if str is not temp, add element str to end of vv
+
+the string value of ans is equal to space
+let vv be a vector of strings
+read a
+read line from the input into size
+create integer l with l = size of s
+integer sz = size of s
+
+create integer sz with sz = size of s
+read line into str with maximum size size
+read line from str to size
+create integer t with value 2
+declare new string output
+create constant integer MAXN with MAXN = 100010
+read line of length size to str
+ans is vector of characters
+set constant integer MAXN to 100010
+create character vector ans
+create string vector vv
+Let l be the size of string s
+print all elements of vv one by one
+for i = 0 to size of vv, print vv[i]
+print '\n'
+print \n
+
+
+set boolean flag to false
+assign value false to the boolean flag
+declare strings called s and t
+create boolean flag with flag = false
+bool flag is false
+let n = 0
+create string ns with ns = ""
+declare empty strings ans and temps
+create strings s, t
+create boolean flag with flag = false
+for i = 0 to length of p exclusive
+create boolean flag with flag = false
+create integers i, j
+create integer n with n = 0
+read s
+ns = empty string
+create integers i and j
+len = length of a
+declare new boolean called flag
+if p[i] equals /
+start a loop from k = 0 to length of path exclusive, incrementing k
+create character pointer start with start = str
+*start is a char pointer to str
+
+for integer i = length of s - 1 to 0 inclusive counting down
+
+for i = 1 to l exclusive
+for i = 0 to len exclusive
+for long long i from 0 to length of str exclusive
+create integer flag with flag = 0
+for i = 0 to n exclusive
+n = length of s
+char pointer start = str
+for i = 0 to size of str exclusive
+set value of booleans chk and lol to false
+create integer n with n = size of s
+create character pointer start with start = str
+create integer flag with value 0
+if str[i] is '/'
+for i = 0 to sz exclusive
+create strings str, temp with str = "",
+while i is less than length of p and p[i] equals / , increment i by 1
+read line from cin to s
+for integer i = 0 to size of s exclusive
+if s[i] is not equal to s[i-1] and s[i] is equal to /
+str is an empty string, temp is string
+create character pointer s with s = start
+create character pointer s with s = start
+if s[i] != '/'
+if str[i] is '/'
+for i = 0 to sz exclusive
+char pointer s = start
+read input into s
+if path[k] != '/' or flag = 0, change output to output + path[k]
+*s is a char pointer to start
+if a[j] != '/' or a[i] != '/' increment j and set a[j] to a[i]
+if (s[i] is s[i-1] and s[i] is '/') is false
+create character pointer p with p = start
+sz = i
+increment n
+set temp to str
+increment n
+*p is a char pointer to start
+if flag is true, continue
+if isalpha(s[i])
+set temp to str
+
+set t to s[0]
+create character pointer p with p = start
+if path[k] is equal to '/'
+ans = ans + /
+if flag is true, break current loop iteration
+char pointer p = start
+if s[i] is equal to '/'
+set value of t to s[0]
+if s[i] is '/'
+print s[i-1]
+print s[i-1]
+set the value of flag to 1
+
+for integer i = 1 to length of s exclusive
+increase flag
+break the loop
+while value of s is not '\0'
+while value at s != '\0'
+set flag to true
+for i = 1 to size of s
+while *s != '\0'
+increment flag
+set flag to true
+decrement j while j > 0 and a[j] == '/'
+increase temps by s[i]
+while value of s is not \0
+if s[0] is equal to '/'
+if s[0] is /
+add element / to end of vv
+set chk to true
+if value at s is equal to '/'
+
+else
+else
+if *s is equal to '/'
+if s[i] is '/' and s[i-1] is '/', break current loop iteration
+
+
+if value of is is '/'
+if value of s is not /
+else
+if s[i] == '/' and s[i - 1] is equal to '/' continue the loop
+else
+set a[j + 1] to "\0"
+if i is less than length of p , increment ans by p[i]
+push "/" into vv
+elseGenerating:   0%|          | 0/158 [00:01<?, ?it/s]
+
+[infer_once]
+Traceback (most recent call last):
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1005, in request
+    response = self._client.send(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 151, in <module>
+    main()
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 124, in main
+    candidates = generate_codes(pseudocode, k=args.k)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 70, in generate_codes
+    return LLM_generate(pseudocode,k)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 63, in LLM_generate
+    base_code=infer_once(pseudocode)
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 57, in infer_once
+    result = client.chat.completions.create(messages=messages, model="deepseek")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1211, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1297, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1037, in request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+评测完毕，清理后台大模型释放资源...
+/home/wangbn/code_clean/inferSPOC.sh: line 27: kill: (3219698) - No such process
+正在等待模型 75 加载进显存 (60秒)...
+找到 158 个唯一 probid
+Generating:   0%|          | 0/158 [00:00<?, ?it/s][generate_codes] pseudocode declare string variable s
+create constant long double eps with eps = 1e-7
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+let eps be constant long double = 1e-7
+
+let s be string
+create new string variable path
+creat constant integer inf with inf = 1000000010
+declare string variable str
+let p be a string
+create string str
+set constant integer inf to 1000000010
+create constant integer size with value 101
+create constant integer size with size = 101
+create constant integer size with size = 101
+let s be string
+create constant integer size with value 101
+create string s
+create string s
+s = string
+create string s
+declare string variable s
+declare short int sz
+let a be array of chars of length 110
+increment t by s[i]
+if flag is false
+set flag to false
+if flag is false
+
+set flag to false
+if not flag
+set i to 0
+set value of i to 0
+else
+set flag to 0
+set flag to 0
+
+if not flag
+
+
+change the value of flag to 0
+increase t by s[i]
+print a[i] in the loop from 0 while a[i] is not equal to "\0"
+if chk is true
+for j = i + 1 to n exclusive
+for i = 0 to sz inclusive
+if s[l-1] is not '/' or n is 0, print s[l-1]
+set flag to true
+for j = i to n exclusive
+
+
+
+set value of flag to true
+if ans.size() is greater than 1 and ans[ans.size() - 1] is equal to / , ans is equal to ans.substr(0, ans.size() - 1)
+assign value of true to the flag
+
+
+set flag to true
+
+
+if s[i-1] is not equal to / or n = 0
+print end of line
+if s[j] is not /, break loop
+print newline
+if flag = false and s[i] = '/'
+end of the line
+else
+else
+
+if s[j] != '/', break the loop
+print ans and newline
+if flag is 0 or flag is 1, increment ns by s[i]
+push str[i] into ans
+else
+if last element of t is equal to '/', set t to t.substr(0, t.size() - 1)
+
+append string "/" + temps to ans
+add element str[i] to end of ans
+else
+if t[size of t - 1] is '/', set t to substring of t starting at 0 to size of t - 1
+if flag and 0 or flag is equal to 1 increase ns by s[i]
+set flag to true
+
+
+
+
+
+if flag is true and length of output > 1, change output to the substring of the output = output itself
+
+set value of temps to an empty string
+
+
+
+increment s
+
+if t is "", set t to "/"
+increase s by one
+increment s
+if t is an empty string set t to "/"
+increment s
+break current loop iteration
+if size of ns is 1
+print output
+for i = 0 to size of ans exclusive
+set chk to false
+if length of ns is equal to 1
+skip the rest of the loop
+print s[i]
+
+
+for i = 0 to length of ans exclusive
+break current loop iteration
+
+
+print t and a new line
+print t print newline
+skip the rest of the loop
+
+
+print ns and a new line
+
+
+print ns print newline
+if size of ans is greater than 1 and i is size of ans - 1 and ans[i] is '/', break current loop iteration
+set i to j
+set value of i to j
+if length of ans > 1 and i = length of ans - and ans[i] = '/', continue the loop
+
+
+
+
+else if s[i] != '/'
+else
+else
+else
+loop while i < n incrementing i
+for i to n exclusive
+else if last element of ns is '/'
+set flag to false
+else
+else if ns[size of ns - 1] is '/'
+
+set lol to true
+print ans[i]
+
+print ans[i]
+
+print substring of ns from 0 to size of ns - 1, print newline
+set flag to false
+if s[i] is equal to '/'
+print s[i]
+
+print ns without last symbol and a new line
+
+set flag to false
+set s[i] to /
+set flag to false
+set flag to false
+
+print newline
+else
+
+
+
+if temp is not str, add element str to end of vv
+else
+
+print new line
+
+
+if temp != str, push str into vv
+set value of p to value of s
+*p = *s
+if temps is not empty attach "/" and temps to ans
+print ns print newline
+set value of p to value of s
+
+print ns and a new line
+*p = *s
+
+set str to ""
+
+str = ""
+len, i, j = integers
+read s
+create constant integer mod with mod = 1000000007
+create character array str of size size
+read s
+create character array str with size size
+read str
+create char array str with size size
+read str
+read s
+str = array of characters of length size
+while read s is true
+read s
+set constant integer mod to 1000000007
+read s
+read p
+while can read input into s
+declare boolean called flag = false
+read line from the input into path
+
+for j = i + 1 to n exclusive
+if and is empty and lol is true append character "/" to ans
+
+increment p
+increment p
+increase p
+print '\n'
+increment p
+
+for j = i to n exclusive
+
+increment s
+increase s
+if s[j] is not /, break loop
+
+increment s
+
+print ans and a new line
+increment s
+
+if s[j] is not '/', break
+
+
+
+
+
+
+
+
+
+
+set value of p to '\0'
+set value of p to \0
+*p = '\0'
+set i to j - 1
+i = j - 1
+*p = '\0'
+create size_t len with len = string length of str
+len is size_t with value equal to length of str
+create size_t len with len = string length of str
+len is size_t with value = length of str
+if i != n - 1, push "/" into vv
+if i is not n - 1, add element / to end of vv
+if len > 1 and str[len - 1] is equal to '/', set str at len - 1 to '\0'
+if len is greater than 1 and str[len-1] is /, set str[len-1] to \0
+if len is greater than 1 and str[len-1] is '/', set str[len-1] to '\0'
+if len > 1 && str[len - 1] is '/', set last symbol of str to '\0'
+else
+else
+copy string to str from start
+print start
+increase str by s[i]
+increment str by s[i]
+print start
+copy start to str
+
+print str
+
+print str and a new line
+
+
+
+
+
+
+
+
+if str != temp, push str into vv
+
+if str is not temp, add element str to end of vv
+
+the string value of ans is equal to space
+let vv be a vector of strings
+read a
+read line from the input into size
+create integer l with l = size of s
+integer sz = size of s
+
+create integer sz with sz = size of s
+read line into str with maximum size size
+read line from str to size
+create integer t with value 2
+declare new string output
+create constant integer MAXN with MAXN = 100010
+read line of length size to str
+ans is vector of characters
+set constant integer MAXN to 100010
+create character vector ans
+create string vector vv
+Let l be the size of string s
+print all elements of vv one by one
+for i = 0 to size of vv, print vv[i]
+print '\n'
+print \n
+
+
+set boolean flag to false
+assign value false to the boolean flag
+declare strings called s and t
+create boolean flag with flag = false
+bool flag is false
+let n = 0
+create string ns with ns = ""
+declare empty strings ans and temps
+create strings s, t
+create boolean flag with flag = false
+for i = 0 to length of p exclusive
+create boolean flag with flag = false
+create integers i, j
+create integer n with n = 0
+read s
+ns = empty string
+create integers i and j
+len = length of a
+declare new boolean called flag
+if p[i] equals /
+start a loop from k = 0 to length of path exclusive, incrementing k
+create character pointer start with start = str
+*start is a char pointer to str
+
+for integer i = length of s - 1 to 0 inclusive counting down
+
+for i = 1 to l exclusive
+for i = 0 to len exclusive
+for long long i from 0 to length of str exclusive
+create integer flag with flag = 0
+for i = 0 to n exclusive
+n = length of s
+char pointer start = str
+for i = 0 to size of str exclusive
+set value of booleans chk and lol to false
+create integer n with n = size of s
+create character pointer start with start = str
+create integer flag with value 0
+if str[i] is '/'
+for i = 0 to sz exclusive
+create strings str, temp with str = "",
+while i is less than length of p and p[i] equals / , increment i by 1
+read line from cin to s
+for integer i = 0 to size of s exclusive
+if s[i] is not equal to s[i-1] and s[i] is equal to /
+str is an empty string, temp is string
+create character pointer s with s = start
+create character pointer s with s = start
+if s[i] != '/'
+if str[i] is '/'
+for i = 0 to sz exclusive
+char pointer s = start
+read input into s
+if path[k] != '/' or flag = 0, change output to output + path[k]
+*s is a char pointer to start
+if a[j] != '/' or a[i] != '/' increment j and set a[j] to a[i]
+if (s[i] is s[i-1] and s[i] is '/') is false
+create character pointer p with p = start
+sz = i
+increment n
+set temp to str
+increment n
+*p is a char pointer to start
+if flag is true, continue
+if isalpha(s[i])
+set temp to str
+
+set t to s[0]
+create character pointer p with p = start
+if path[k] is equal to '/'
+ans = ans + /
+if flag is true, break current loop iteration
+char pointer p = start
+if s[i] is equal to '/'
+set value of t to s[0]
+if s[i] is '/'
+print s[i-1]
+print s[i-1]
+set the value of flag to 1
+
+for integer i = 1 to length of s exclusive
+increase flag
+break the loop
+while value of s is not '\0'
+while value at s != '\0'
+set flag to true
+for i = 1 to size of s
+while *s != '\0'
+increment flag
+set flag to true
+decrement j while j > 0 and a[j] == '/'
+increase temps by s[i]
+while value of s is not \0
+if s[0] is equal to '/'
+if s[0] is /
+add element / to end of vv
+set chk to true
+if value at s is equal to '/'
+
+else
+else
+if *s is equal to '/'
+if s[i] is '/' and s[i-1] is '/', break current loop iteration
+
+
+if value of is is '/'
+if value of s is not /
+else
+if s[i] == '/' and s[i - 1] is equal to '/' continue the loop
+else
+set a[j + 1] to "\0"
+if i is less than length of p , increment ans by p[i]
+push "/" into vv
+elseGenerating:   0%|          | 0/158 [00:01<?, ?it/s]
+
+[infer_once]
+Traceback (most recent call last):
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    raise exc
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 124, in _connect
+    stream = self._network_backend.connect_tcp(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_backends/sync.py", line 207, in connect_tcp
+    with map_exceptions(exc_map):
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1005, in request
+    response = self._client.send(
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [Errno 111] Connection refused
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 151, in <module>
+    main()
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 124, in main
+    candidates = generate_codes(pseudocode, k=args.k)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 70, in generate_codes
+    return LLM_generate(pseudocode,k)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 63, in LLM_generate
+    base_code=infer_once(pseudocode)
+              ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/code_clean/spoc/./infer.py", line 57, in infer_once
+    result = client.chat.completions.create(messages=messages, model="deepseek")
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_utils/_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/resources/chat/completions/completions.py", line 1211, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1297, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/wangbn/ywj/miniconda3/lib/python3.11/site-packages/openai/_base_client.py", line 1037, in request
+    raise APIConnectionError(request=request) from err
+openai.APIConnectionError: Connection error.
+评测完毕，清理后台大模型释放资源...
+/home/wangbn/code_clean/inferSPOC.sh: line 27: kill: (3220467) - No such process
