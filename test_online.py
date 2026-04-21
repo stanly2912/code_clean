@@ -42,14 +42,12 @@ for model_path in LOCAL_MODEL_PATHS:
         
         print(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
 
-        prompt = "generate a quick sort python code,completely, give the python code"
+        prompt = "generate a quick sort python code"
 
 
         inputs = tokenizer(prompt, return_tensors='pt')
         inputs = inputs.to('cuda:0')
-        generation_output = model.generate(**inputs, 
-            #max_new_tokens=1024*8, 
-            repetition_penalty=1.1)
+        generation_output = model.generate(**inputs, max_new_tokens=64*8, repetition_penalty=1.1)
         print(tokenizer.decode(generation_output.cpu()[0], skip_special_tokens=True),"!!")
 
 
