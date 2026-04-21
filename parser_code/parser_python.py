@@ -97,14 +97,16 @@ from index import get_node_content
 from circle import get_circle
 
 language = "python"
-DIR="/home/wangbn/code_clean/parser_code"
+DIR="./parser_code"
 
 
-my_language = Language(DIR+'/builds/my-languages.so', language)
-parser = Parser()
-parser.set_language(my_language)
-query = my_language.query("(function_definition) @function")
-
+try:
+    my_language = Language(DIR+'/builds/my-languages.so', language)
+    parser = Parser()
+    parser.set_language(my_language)
+    query = my_language.query("(function_definition) @function")
+except:
+    print("ERR:languages.so")
 
 def get_child(node, child_types):
     """

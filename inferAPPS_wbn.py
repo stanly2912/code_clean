@@ -210,7 +210,7 @@ def main():
                     if line.strip()=="":
                         continue
                     dic=json.loads(line)
-                    codes=cut.extract_codes(dic)
+                    codes=cut.extract_codes(dic,ONLY_FUNCTION=False) #0421 17:26
 
                     is_empty=True
                     for code in codes:
