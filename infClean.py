@@ -4,15 +4,15 @@ from openai import OpenAI
 import sys
 
 # 动态添加 human-eval 根目录到 sys.path
-human_eval_root = "/home/wangbn/code_clean/human-eval"  # 改成你的实际路径
+human_eval_root = "./human-eval"  # 改成你的实际路径
 sys.path.insert(0, human_eval_root)
 # 现在可以正常导入包
 from human_eval.data import stream_jsonl
 
 
-sys.path.insert(0, "/home/wangbn/code_clean/parser_code/")
+sys.path.insert(0, "./parser_code/")
 import cut
-sys.path.insert(0, "/home/wangbn/code_clean/solvers/")
+sys.path.insert(0, "./solvers/")
 import solver_old,solver_A,solver_B,solver_C
 
 

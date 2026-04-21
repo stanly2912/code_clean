@@ -1,11 +1,18 @@
 import argparse
 import json
 import re
+import sys
+
+
+import sys
+
+sys.path.insert(0, "./parser_code")
+
 try:
     from parser_python import parse_code
-except:
-    print("ERR:parse_code")
-
+except ImportError as e:
+    print(f"ERR: parse_code import failed: {e}")
+    
 
 def k2taskid(k):
     return f"HumanEval/{k}"
