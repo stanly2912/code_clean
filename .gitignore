@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.log
+*.zip
+*.tar.gz
+*.gz
+nohup.out
+
+APPS_results_jzy/
+humanevalpass5/
+humanevalpass5log/
+infer_results_jzy/
+llm_output/
+
+
+.venv/
+__pycache__/
