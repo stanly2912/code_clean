@@ -1,10 +1,7 @@
 import argparse
 import json
 import re
-try:
-    from parser_python import parse_code
-except:
-    print("ERR:parse_code")
+from parser_python import parse_code
 
 
 def k2taskid(k):
@@ -110,22 +107,19 @@ def extract_codes(item,ONLY_FUNCTION=True):
     if not ONLY_FUNCTION:
         return codes
     
-    try:
-        ret=[]
-        for code in codes:
-            # 原代码这里写成了 c[0]，那只会取第一个字符，明显有问题
-            results = parse_code(code)
-            
-        #print("[extract_code] results=",results)
-            if not results:
-                s=""
-            else:
-                first_value = next(iter(results.values()))
-                s=fix_code(first_value.get("function_content", ""))
-            ret.append(s)
-        return ret
-    except:
-        print("[extract_codes] ERR:parse_code")
+    ret=[]
+    for code in codes:
+        # 原代码这里写成了 c[0]，那只会取第一个字符，明显有问题
+        results = parse_code(code)
+        
+       #print("[extract_code] results=",results)
+        if not results:
+            s=""
+        else:
+            first_value = next(iter(results.values()))
+            s=fix_code(first_value.get("function_content", ""))
+        ret.append(s)
+    return ret
 
 
 def load_codes(code_path,k2taskid=lambda i:i,ONLY_FUNCTION=True):

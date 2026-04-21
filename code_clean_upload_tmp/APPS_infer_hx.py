@@ -1,4 +1,4 @@
-#0421 8:50
+# APPS_infer_hx.py
 import os
 import sys
 import json
@@ -7,12 +7,10 @@ import re
 import argparse
 from tqdm import tqdm
 from openai import OpenAI
-import traceback
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer
 
 
-sys.path.insert(0, "./parser_code/")
+
+sys.path.insert(0, "/home/wangbn/code_clean/parser_code/")
 import cut
 
 # ==========================================
@@ -21,9 +19,7 @@ import cut
 # 确保能够找到 infClean 模块
 sys.path.append("/home/wangbn/code_clean")
 try:
-    from infClean import solve
-    from infClean import system_prompt_general as system_prompt_general_
-    system_prompt_general=system_prompt_general_+"\nplease generate python code\n"
+    from infClean import solve,system_prompt_general
 except ImportError:
     print("警告: 无法从 /home/wangbn/code_clean 导入 infClean。如果运行 MAS 模式将会报错。")
 
@@ -188,8 +184,6 @@ def main():
 
 
     all_ids = sorted(all_ids, key=int)
-    all_ids=all_ids[0:100]+all_ids[3000:3100]+all_ids[4000:4100] #TODO
-    print("all_ids",all_ids)
     splits = ["introductory", "interview", "competition"]
 
     for split_name in splits:
@@ -207,27 +201,15 @@ def main():
         if os.path.exists(jsonl_path):
             with open(jsonl_path, 'r', encoding='utf-8') as f:
                 for line in f:
-                    if line.strip()=="":
-                        continue
-                    dic=json.loads(line)
-                    codes=cut.extract_codes(dic)
-
-                    is_empty=True
-                    for code in codes:
-                        if code.strip():
-                            is_empty=False
-                            break
-                    
-                    if is_empty: 
-                        continue
-                    completed_task_ids.add(dic["task_id"])
+                    if line.strip():
+                        completed_task_ids.add(json.loads(line)["task_id"])
         
         # ----------------------------------------------
         success_count=0
-        for task_id in all_ids:
+        for task_id in tqdm(all_ids, desc=f"{split_name} 进度"):
             if success_count >= TARGET_LIMITS[split_name]:
                 break
-            print("task_id",task_id)
+                
             if task_id in completed_task_ids:
                 print("发现存档",task_id)
                 if(1):
@@ -279,13 +261,8 @@ def main():
 
                         generated_ids = model.generate(
                             **model_inputs,
-                            max_new_tokens=1024*8,
-                            repetition_penalty=1.1,
-                            do_sample=True,
-                            pad_token_id=tokenizer.eos_token_id,
-                            temperature=args.temperature
+                            max_new_tokens=1024
                         )
-
                         generated_ids = [
                             output_ids[len(input_ids):] for input_ids, output_ids in zip(model_inputs.input_ids, generated_ids)
                         ]
