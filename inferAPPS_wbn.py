@@ -1,4 +1,4 @@
-#0421 8:50
+#0421 15:50
 import os
 import sys
 import json
@@ -19,18 +19,18 @@ import cut
 # 导入MAS 模块
 # ==========================================
 # 确保能够找到 infClean 模块
-sys.path.append("/home/wangbn/code_clean")
+#sys.path.append("./")
 try:
     from infClean import solve
     from infClean import system_prompt_general as system_prompt_general_
     system_prompt_general=system_prompt_general_+"\nplease generate python code\n"
 except ImportError:
-    print("警告: 无法从 /home/wangbn/code_clean 导入 infClean。如果运行 MAS 模式将会报错。")
+    print("ERR: 无法从导入 infClean。如果运行 MAS 模式将会报错。")
 
 # ==========================================
 # 基础配置
 # ==========================================
-APPS_PATH = "/home/wangbn/APPS/test"
+APPS_PATH = "/home/wangbn/code_clean/APPS"
 OUTPUT_PATH = "/home/wangbn/APPS_results/apps_7results2"  
 
 # 每种难度的测试题数限制
